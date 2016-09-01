@@ -12,12 +12,12 @@
   "dependencies":{
     "chai":"*",
     "request":"*",
-    "async":"*"  
+    "async":"*"
   },
   "dependencies":{
     "gulp":"*",
     "apigeetool" : "mukundha/apigeetool-node"
   },
-  "author": "kbouwmeester@apigee.com",
+  "author": "nwalters@apigee.com",
   "license": "ISC"
 }
